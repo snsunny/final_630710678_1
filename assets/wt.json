@@ -1,0 +1,76 @@
+{
+  "cities": [
+    {
+      "city": "Bangkok",
+      "country": "Thailand",
+      "lastUpdated": "2023-10-25 19:45",
+      "tempC": 30,
+      "tempF": 86,
+      "feelsLikeC": 38.1,
+      "feelsLikeF": 100.5,
+      "windKph": 6.8,
+      "windMph": 4.3,
+      "humidity": 70,
+      "uv": 1,
+      "condition": {
+        "text": "Partly cloudy",
+        "icon": "https://cdn.weatherapi.com/weather/128x128/night/116.png",
+        "code": 1003
+      }
+    },
+    {
+      "city": "Paris",
+      "country": "France",
+      "lastUpdated": "2023-10-26 04:15",
+      "tempC": 11,
+      "tempF": 51.8,
+      "feelsLikeC": 10.4,
+      "feelsLikeF": 50.8,
+      "windKph": 6.8,
+      "windMph": 4.3,
+      "humidity": 94,
+      "uv": 1,
+      "condition": {
+        "text": "Moderate rain at times",
+        "icon": "https://cdn.weatherapi.com/weather/128x128/night/299.png",
+        "code": 1186
+      }
+    },
+    {
+      "city": "London",
+      "country": "United Kingdom",
+      "lastUpdated": "2023-10-26 03:15",
+      "tempC": 11,
+      "tempF": 51.8,
+      "feelsLikeC": 9.8,
+      "feelsLikeF": 49.7,
+      "windKph": 9,
+      "windMph": 5.6,
+      "humidity": 94,
+      "uv": 1,
+      "condition": {
+        "text": "Light rain",
+        "icon": "https://cdn.weatherapi.com/weather/128x128/night/296.png",
+        "code": 1183
+      }
+    },
+    {
+      "city": "Manchester",
+      "country": "United Kingdom",
+      "lastUpdated": "2023-10-26 03:15",
+      "tempC": 7,
+      "tempF": 44.6,
+      "feelsLikeC": 5.9,
+      "feelsLikeF": 42.6,
+      "windKph": 6.1,
+      "windMph": 3.8,
+      "humidity": 93,
+      "uv": 1,
+      "condition": {
+        "text": "Partly cloudy",
+        "icon": "https://cdn.weatherapi.com/weather/128x128/night/116.png",
+        "code": 1003
+      }
+    }
+  ]
+}
